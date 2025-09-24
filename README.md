@@ -10,16 +10,8 @@
 - **Step 2**: update the packages
 - **`pkg update && pkg upgrade`**
 - **Step 3**: install python pip
- - **`pkg install python python-PIP`**
+ - **`pkg install python python-pip -y`**
 - **Step 4**: install AWS_CLI_v2 using PIP
 - **`pip install awscli`**
 - **Step 5**: validate the installaion
 - **`aws --version`**
-
-### Script Method
-- clone this repository using
-- **`git clone https://github.com/mcschandra/AWS_CLI_v2-in-Android-Termux-.git`**
-- Give Executive permissions for file
-- **`chmod +x awscli_install.sh`**
-- Run the script 
-- **`./awscli_install.sh`**
