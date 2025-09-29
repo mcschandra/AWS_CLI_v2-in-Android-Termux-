@@ -3,10 +3,9 @@
 - **Termux app**.
 - **1 GB of free space**.
 
-# You can install the AWS_CLI_v2 in android using Termux with below methods.
+###steps by step process:
 
-### Manual method.
-- **Step 1**: install Termux app from playstore (https://play.google.com/store/apps/details?id=com.termux&pcampaignid=web_share).
+- **Step 1**: install Termux app (ideally from F-Droid, not Google Play Store)
 - **Step 2**: update the packages
 - **`pkg update && pkg upgrade`**
 - **Step 3**: install python pip
